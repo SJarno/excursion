@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+header .otsikko {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+
+}
+.download {
+    color: aquamarine;
+    font-size: 21px;
+}
+.otsikko2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+video {
+    object-fit: contain;
+}
+.artikkeli {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.app {
+    margin-top: 20px;
+}
+.otsikko3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    color: white;
+    font-weight: 300;
+}
+footer p {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
